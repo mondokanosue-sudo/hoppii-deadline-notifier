@@ -59,8 +59,8 @@ Make側のデータストアで送信済みかどうかをチェックするこ�
 
 1. hoppiiにログインした状態で時間割ページを開く
 2. ブラウザのDevTools(Console)を開く
-3. hoppii_scraper.js の中身をコピーして貼り付け、Enter
-4. 自動で課題データが収集され、Makeへ送信される
+3. hoppii_scraper(7).js の中身をコピーして貼り付け、Enter
+5. 自動で課題データが収集され、Makeへ送信される
 
 ※ WEBHOOK_URL は各自のMake Webhook URLに置き換えて使用してください。
 
